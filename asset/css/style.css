@@ -1,0 +1,79 @@
+
+*{
+	box-sizing:border-box;
+	
+}
+
+.cname{
+	background-color:#7200ff;
+	height:150px;
+	text-align:center;
+	font-size:40px;
+	color:white;
+	padding-top:55px;
+}
+
+.menu{
+	background-color:black;
+	height:40px;
+	text-align:center;
+	padding-top:15px;
+	
+	
+	
+}
+
+.menu a{
+	color:white;
+	text-decoration:none;
+	display:block;
+}
+
+
+.banner{
+	background-image:url("../photo/college.jpg");
+	height:300px;
+	margin-top:3px;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	
+
+}
+
+.about{
+	background-color:black;
+	color:white;
+	height:40px;
+	text-align:center;
+	padding-top:17px;
+	margin-top:5px;
+	font-size:20px;
+	box-shadow:0px 0px  5px #afa697;
+
+}
+
+.about_content p{
+	text-align:justify;
+}
+
+.section{
+	background-color:black;
+	
+	color:white;
+	text-align:center;
+	padding-top:18px;
+	margin-top:5px;
+	box-shadow:0px 0px 5px #B2B1AF;
+}
+
+.product{
+	background-color: #ffffff;
+    margin-top: 10px;
+    height: 590px;
+    text-align:center;
+    padding-top: 18px;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px #4774e7
+}
